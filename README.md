@@ -88,7 +88,7 @@ To view the rules and roles of the game, visit http://localhost:8080/lupus/rules
 
 ## Group members
 
-| **[Nicola Busato](https://github.com/Nicola-01)**| **[Jacopo Momesso](https://github.com/JapoMomi1)** | **[Michele Gusella](https://github.com/Polterino)** |
+| **[Nicola Busato](https://github.com/Nicola-01)**| **[Jacopo Momesso](https://github.com/JapoMomi)** | **[Michele Gusella](https://github.com/Polterino)** |
 | :---: |:---:|:---:|
 | <a href="https://github.com/Nicola-01"><img src="https://avatars1.githubusercontent.com/u/96294696?s=200&v=4" alt="Nicola Busato" width="200"/></a> | <a href="https://github.com/JapoMomi1"><img src="https://avatars1.githubusercontent.com/u/127385689?s=200&v=4" alt="Jacopo Momesso" width="200"/></a> | <a href="https://github.com/Polterino"><img src="https://avatars.githubusercontent.com/u/56081741?s=200&v=4" alt="Michele Gusella" width="200"/></a> |
 |  | | |
